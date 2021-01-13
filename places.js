@@ -32,10 +32,10 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: "Your place name",
+            name: "Home",
             location: {
-                lat: 44.493271, // change here latitude if using static data
-                lng: 11.326040, // change here longitude if using static data
+                lat: 25.6913928, // change here latitude if using static data
+                lng: -100.3742057, // change here longitude if using static data
             }
         },
     ];
